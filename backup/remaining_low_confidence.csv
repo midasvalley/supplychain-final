@@ -1,0 +1,52 @@
+UID,Amazon Name,USDA Name,USDA Food ID,Match Confidence,Serving Size,Serving Unit,Calories,Protein (g),Carbs (g),Fat (g),Fiber (g),Sugar (g)
+94391e25,Amazon Brand - Happy Belly Frozen Chopped Vegetables,"HAPPY BELLY MIX, HAPPY BELLY",2548403,0.2222222222222222,30.0,GRM,533.0,10.0,53.33,40.0,6.7,23.33
+a66384fc,Amazon Brand - Happy Belly Tropical Fruit Mix,"HAPPY BELLY MIX, HAPPY BELLY",2548403,0.2222222222222222,30.0,GRM,533.0,10.0,53.33,40.0,6.7,23.33
+661eba91,El Monterey Beef and Bean Burritos,"Burrito, beef and bean, frozen",173335,0.2222222222222222,1.0,undetermined,239.0,7.26,30.84,9.61,4.2,0.7
+8606cec8,Cucumber,Cucumber and vegetable namasu,2709818,0.25,,undetermined,56.0,0.47,12.2,0.18,0.6,10.8
+6559e567,Fresh Produce Bundle,"Basil, fresh",172232,0.25,2.0,undetermined,23.0,3.15,2.65,0.64,1.6,0.3
+96d8ed79,Brownberry Oatnut Bread,"OATNUT BREAD, OATNUT",869654,0.25,38.0,g,289.0,10.53,50.0,5.26,5.3,7.89
+ef45ff98,Amazon Fresh Brand Organic Gala Apples,"GALA ORGANIC APPLES, GALA",2627268,0.2857142857142857,154.0,GRM,52.0,0.32,14.29,0.0,3.2,10.39
+8fdbab22,Amazon Fresh Brand Organic Honeycrisp Apples,"HONEYCRISP ORGANIC APPLES, HONEYCRISP",2627277,0.2857142857142857,154.0,GRM,52.0,0.32,14.29,0.0,3.2,10.39
+af19510e,"Quest Nutrition Chocolate Chip Dough Cookie Protein Bars, 21g Protein, 1g Sugar, 4g Net Carb, Gluten Free, Keto Friendy, 12 Count","NUTRITION BARS, CHOCOLATE CHIP COOKIE DOUGH",1837878,0.2857142857142857,45.0,g,400.0,22.22,53.33,11.11,2.2,40.0
+d9f0db13,"Quest Nutrition Chocolate Chip Dough Cookie Protein Bars, 21g Protein, 1g Sugar, 4g Net Carb, Gluten Free, Keto Friendy, 12 Count","NUTRITION BARS, CHOCOLATE CHIP COOKIE DOUGH",1837878,0.2857142857142857,45.0,g,400.0,22.22,53.33,11.11,2.2,40.0
+28dcc99e,Activia Probiotic Dailies Strawberry and Blueberry,"PROBIOTIC DAILIES LOWFAT YOGURT DRINK, STRAWBERRY, BLUEBERRY",2466765,0.3,93.0,ml,75.0,3.23,11.83,1.61,1.1,10.75
+a405d396,Amazon Fresh Multigrain Sandwich Bread,"MULTIGRAIN SANDWICH BREAD, MULTIGRAIN",2640763,0.3333333333333333,37.0,GRM,243.0,2.7,45.95,9.46,5.4,8.11
+d63fc1fe,Lindt EXCELLENCE 90% Dark Chocolate,"LINDT, DARK CHOCOLATE",2049785,0.3333333333333333,40.0,g,500.0,5.0,55.0,30.0,2.5,52.5
+1399aaad,Goya Pinto Beans Dry,Pinto beans with meat,2707378,0.3333333333333333,,undetermined,186.0,10.7,21.1,6.9,7.2,0.38
+60f8b6e0,Roland Foods Sriracha Chili Sauce,"SRIRACHA CHILI SAUCE, SRIRACHA CHILI",2632868,0.3333333333333333,5.0,GRM,100.0,0.0,20.0,0.0,0.0,20.0
+0b93c2d8,Gatorlyte Rapid Rehydration Orange,RAPID REHYDRATION  ELECTROLYTE BEVERAGE,2530353,0.3333333333333333,591.0,MLT,8.0,0.0,2.37,0.0,0.0,2.03
+f2b88bf2,Amazon Fresh Great Northern Beans,"GREAT NORTHERN BEANS, GREAT NORTHERN",2659473,0.3333333333333333,35.0,GRM,229.0,20.0,60.0,1.43,34.3,2.86
+b7f54156,Fresh Celery,Celery juice,2709811,0.3333333333333333,,undetermined,17.0,0.49,3.32,0.16,1.6,1.34
+bf2a6026,Amazon Brand - Happy Belly Chopped Spinach,"Spinach, frozen, chopped or leaf, cooked, boiled, drained, with salt",170124,0.3625,0.5,undetermined,34.0,4.01,4.8,0.87,3.7,0.51
+a2796722,Lindt EXCELLENCE 70% Dark Chocolate,"EXCELLENCE 70% COCOA PREMIUM DARK CHOCOLATE, EXCELLENCE",2629671,0.375,30.0,GRM,567.0,6.67,43.33,46.67,0.0,30.0
+7e21fe56,365 by Whole Foods Market Sun Dried Tomatoes,"365 EVERYDAY VALUE, TOMATO BISQUE",2052532,0.3833333333333333,245.0,g,49.0,1.22,8.16,1.22,1.2,2.45
+5a5ac3b8,365 by Whole Foods Market Green Peas,"WHOLE FOODS MARKET, ORGANIC GREEN SPLIT PEAS",2052701,0.4,50.0,g,340.0,24.0,60.0,1.0,26.0,0.0
+53225181,Sir Kensington's Everything Sauce Garlic,Garlic sauce,2710169,0.4,,undetermined,683.0,1.43,2.87,74.0,0.3,0.62
+a1789833,Brownberry Whole Wheat Bread,"Bread, whole wheat",2707709,0.4,,undetermined,254.0,12.3,43.1,3.55,6.0,4.41
+b7a17bf6,Fast Twitch Energy Drink from Gatorade Orange,"Fast food, biscuit",170302,0.4111111111111111,1.0,undetermined,370.0,7.08,42.82,18.92,2.5,3.88
+266bca6d,365 by Whole Foods Market Hometown Blend Coffee,Coffee substitute,2710486,0.4111111111111111,,undetermined,6.0,0.1,1.3,0.04,0.4,0.08
+943f77de,365 by Whole Foods Market Chopped Spinach,"Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)",169287,0.4111111111111111,1.0,undetermined,29.0,3.63,4.21,0.57,2.9,0.65
+3c8444ac,365 by Whole Foods Market Baby Spinach,"Spinach, baby",1999632,0.425,,,20.72851125,2.851875,2.406325,0.6188,1.558,0.0
+e6d97a04,"Amazon Grocery, Ground Beef, 80% Lean/20% Fat, 3 lb (Pack of 3) (Previously Fresh Brand, Packaging May Vary)","Beef, ground, 80% lean meat / 20% fat, raw",174036,0.425,4.0,undetermined,254.0,17.17,0.0,20.0,0.0,0.0
+f4532afc,"Amazon Grocery, Ground Beef, 80% Lean/20% Fat, 3 lb (Pack of 3) (Previously Fresh Brand, Packaging May Vary)","Beef, ground, 80% lean meat / 20% fat, raw",174036,0.425,4.0,undetermined,254.0,17.17,0.0,20.0,0.0,0.0
+6fb7726a,Amazon Brand - Happy Belly Swiss Cheese Block,CHEESE,1943515,0.425,,,331.0,21.13,2.46,24.65,0.0,0.0
+66646094,Amazon Fresh Organic Black Chia Seeds,"BLACK ORGANIC CHIA SEED, BLACK",2628701,0.4285714285714285,12.0,GRM,500.0,25.0,33.33,33.33,33.3,0.0
+b8cb66ee,Amazon Brand - Happy Belly California Almonds,ALMONDS,2074342,0.4428571428571428,30.0,g,633.0,23.33,13.33,56.67,10.0,3.33
+26cc08ab,Amazon Brand - Happy Belly California Almonds,ALMONDS,2074342,0.4428571428571428,30.0,g,633.0,23.33,13.33,56.67,10.0,3.33
+7622803a,365 by Whole Foods Market Organic Angel Hair Pasta,ORGANIC ANGEL HAIR PASTA,2428058,0.4444444444444444,100.0,g,270.0,11.0,55.0,2.5,10.0,0.0
+be869877,365 by Whole Foods Market Chopped Kale,"WHOLE FOODS MARKET, CHOPPED KALE SALAD",2069482,0.4444444444444444,100.0,g,150.0,5.0,11.0,11.0,2.0,2.0
+13db8aa5,Lindt Excellence Sea Salt Bar,NUTRITION BAR,482379,0.4666666666666667,47.0,g,415.0,21.28,61.7,9.57,6.4,23.4
+211fd724,Banana Bunch,"BANANA BUNCHES WITH ALMONDS CEREAL, BANANA BUNCHES WITH ALMONDS",2470743,0.4666666666666667,29.0,g,414.0,6.9,79.31,5.17,3.4,17.24
+3d9a7fc9,365 by Whole Foods Market Organic Green Beans,"365 EVERYDAY VALUE, ORGANIC, BLACK BEANS",2028040,0.4666666666666667,50.0,g,340.0,22.0,64.0,0.0,24.0,2.0
+a02a5418,Pasta 16 Oz,"Pasta with sauce, NFS",2708828,0.4666666666666667,,undetermined,125.0,5.86,19.2,2.58,1.6,2.44
+28039bb7,Amazon Fresh Classic Crust 4 Cheese,CHEESE,1943515,0.4666666666666667,,,331.0,21.13,2.46,24.65,0.0,0.0
+8a123bfc,Amazon Brand - Happy Belly Dark Sweet Cherries,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4666666666666667,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+63ecd01f,Mandarin Clementines 3 Lb Bag,"MANDARIN ORANGES, MANDARIN",2503019,0.4666666666666667,140.0,MG,57.0,0.71,13.57,0.0,2.1,10.71
+c1ee01b4,Amazon Brand - Happy Belly Sliced Strawberries,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+acfb15ba,Amazon Brand - Happy Belly Whole Blueberries,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+f566aa9e,Amazon Brand - Happy Belly Whole Blackberries,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+78e26c2a,Amazon Brand - Happy Belly Frozen Edamame,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+aef72e60,Amazon Brand - Happy Belly Red Raspberries,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+8894650f,Amazon Brand - Happy Belly Dried Cranberries,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94
+810973a7,365 by Whole Foods Market Green Olives,"365 EVERYDAY VALUE, PITTED BLACK OLIVES",2026696,0.4818181818181818,15.0,g,167.0,0.0,6.67,16.67,0.0,0.0
+3df471c0,Amazon Brand - Happy Belly Sliced Peaches,"ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY",2399570,0.4818181818181818,355.0,ml,25.0,0.0,6.76,0.0,0.0,3.94

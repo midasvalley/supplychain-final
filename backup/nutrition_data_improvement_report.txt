@@ -1,0 +1,666 @@
+================================================================================
+USDA NUTRITION DATA IMPROVEMENT REPORT
+Generated on: 2025-02-25 10:20:34
+================================================================================
+
+DATA OVERVIEW
+--------------------------------------------------------------------------------
+Total number of items: 197
+
+ORIGINAL DATA QUALITY
+--------------------------------------------------------------------------------
+Items with match confidence >= 0.5: 132 (67.01%)
+Items with match confidence < 0.5: 65 (32.99%)
+
+FINAL DATA QUALITY
+--------------------------------------------------------------------------------
+Items with match confidence >= 0.5: 197 (100.00%)
+Items with match confidence < 0.5: 0 (0.00%)
+
+IMPROVEMENT SUMMARY
+--------------------------------------------------------------------------------
+Fixed 65 out of 65 low confidence matches (100.00%)
+
+FINAL MATCH CONFIDENCE DISTRIBUTION
+--------------------------------------------------------------------------------
+Match Confidence 0.9-1.0: 102 items (51.78%)
+Match Confidence 0.8-0.9: 21 items (10.66%)
+Match Confidence 0.7-0.8: 18 items (9.14%)
+Match Confidence 0.6-0.7: 25 items (12.69%)
+Match Confidence 0.5-0.6: 31 items (15.74%)
+Match Confidence <0.5: 0 items (0.00%)
+
+DETAILED CHANGES MADE
+--------------------------------------------------------------------------------
+Total changes made: 70
+
+Change #1:
+  UID: af19510e
+  Amazon Name: Quest Nutrition Chocolate Chip Dough Cookie Protein Bars, 21g Protein, 1g Sugar, 4g Net Carb, Gluten Free, Keto Friendy, 12 Count
+  Original USDA Name: NUTRITION BARS, CHOCOLATE CHIP COOKIE DOUGH
+  Final USDA Name: Protein bar
+  Original Match Confidence: 0.2857142857142857
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6143
+
+Change #2:
+  UID: e6d97a04
+  Amazon Name: Amazon Grocery, Ground Beef, 80% Lean/20% Fat, 3 lb (Pack of 3) (Previously Fresh Brand, Packaging May Vary)
+  Original USDA Name: Beef, ground, 80% lean meat / 20% fat, raw
+  Final USDA Name: Beef, ground, 80% lean meat / 20% fat, raw
+  Original Match Confidence: 0.425
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.5250
+
+Change #3:
+  UID: b8cb66ee
+  Amazon Name: Amazon Brand - Happy Belly California Almonds
+  Original USDA Name: ALMONDS
+  Final USDA Name: Nuts, almonds
+  Original Match Confidence: 0.4428571428571428
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4571
+
+Change #4:
+  UID: 652fc447
+  Amazon Name: Amazon Brand - Happy Belly Pecan Halves
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Pecans, raw
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #5:
+  UID: d9f0db13
+  Amazon Name: Quest Nutrition Chocolate Chip Dough Cookie Protein Bars, 21g Protein, 1g Sugar, 4g Net Carb, Gluten Free, Keto Friendy, 12 Count
+  Original USDA Name: NUTRITION BARS, CHOCOLATE CHIP COOKIE DOUGH
+  Final USDA Name: Protein bar
+  Original Match Confidence: 0.2857142857142857
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6143
+
+Change #6:
+  UID: f4532afc
+  Amazon Name: Amazon Grocery, Ground Beef, 80% Lean/20% Fat, 3 lb (Pack of 3) (Previously Fresh Brand, Packaging May Vary)
+  Original USDA Name: Beef, ground, 80% lean meat / 20% fat, raw
+  Final USDA Name: Beef, ground, 80% lean meat / 20% fat, raw
+  Original Match Confidence: 0.425
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.5250
+
+Change #7:
+  UID: b7a17bf6
+  Amazon Name: Fast Twitch Energy Drink from Gatorade Orange
+  Original USDA Name: Fast food, biscuit
+  Final USDA Name: Energy drink
+  Original Match Confidence: 0.4111111111111111
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4889
+
+Change #8:
+  UID: 26cc08ab
+  Amazon Name: Amazon Brand - Happy Belly California Almonds
+  Original USDA Name: ALMONDS
+  Final USDA Name: Nuts, almonds
+  Original Match Confidence: 0.4428571428571428
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4571
+
+Change #9:
+  UID: 266bca6d
+  Amazon Name: 365 by Whole Foods Market Hometown Blend Coffee
+  Original USDA Name: Coffee substitute
+  Final USDA Name: Coffee, brewed from grounds, prepared with tap water
+  Original Match Confidence: 0.4111111111111111
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4889
+
+Change #10:
+  UID: 8894650f
+  Amazon Name: Amazon Brand - Happy Belly Dried Cranberries
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Cranberries, dried, sweetened
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #11:
+  UID: 41d8a91c
+  Amazon Name: Amazon Brand - Happy Belly Pecan Halves
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Pecans, raw
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #12:
+  UID: 53225181
+  Amazon Name: Sir Kensington's Everything Sauce Garlic
+  Original USDA Name: Garlic sauce
+  Final USDA Name: Garlic sauce
+  Original Match Confidence: 0.4
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5000
+
+Change #13:
+  UID: aef72e60
+  Amazon Name: Amazon Brand - Happy Belly Red Raspberries
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Raspberries, raw
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #14:
+  UID: 66646094
+  Amazon Name: Amazon Fresh Organic Black Chia Seeds
+  Original USDA Name: BLACK ORGANIC CHIA SEED, BLACK
+  Final USDA Name: Seeds, chia seeds, dried
+  Original Match Confidence: 0.4285714285714285
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.5214
+
+Change #15:
+  UID: 28dcc99e
+  Amazon Name: Activia Probiotic Dailies Strawberry and Blueberry
+  Original USDA Name: PROBIOTIC DAILIES LOWFAT YOGURT DRINK, STRAWBERRY, BLUEBERRY
+  Final USDA Name: Yogurt, Greek, strawberry, nonfat
+  Original Match Confidence: 0.3
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6000
+
+Change #16:
+  UID: 8fdbab22
+  Amazon Name: Amazon Fresh Brand Organic Honeycrisp Apples
+  Original USDA Name: HONEYCRISP ORGANIC APPLES, HONEYCRISP
+  Final USDA Name: Apples, raw, with skin
+  Original Match Confidence: 0.2857142857142857
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6143
+
+Change #17:
+  UID: 96e79d9c
+  Amazon Name: Almond Breeze Unsweetened Original
+  Original USDA Name: Almond butter
+  Final USDA Name: Almond milk, unsweetened, shelf stable
+  Original Match Confidence: 0.8
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.1000
+
+Change #18:
+  UID: 96d8ed79
+  Amazon Name: Brownberry Oatnut Bread
+  Original USDA Name: OATNUT BREAD, OATNUT
+  Final USDA Name: Bread, oatmeal
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #19:
+  UID: 661eba91
+  Amazon Name: El Monterey Beef and Bean Burritos
+  Original USDA Name: Burrito, beef and bean, frozen
+  Final USDA Name: Burrito, beef and bean, frozen
+  Original Match Confidence: 0.2222222222222222
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6778
+
+Change #20:
+  UID: a1789833
+  Amazon Name: Brownberry Whole Wheat Bread
+  Original USDA Name: Bread, whole wheat
+  Final USDA Name: Bread, whole wheat, commercially prepared
+  Original Match Confidence: 0.4
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5000
+
+Change #21:
+  UID: 95d7c912
+  Amazon Name: 365 by Whole Foods Market Organic Concord Grapes
+  Original USDA Name: 365 EVERYDAY VALUE, ORGANIC MAYONNAISE
+  Final USDA Name: Grapes, red or green (European type, such as Thompson seedless), raw
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4182
+
+Change #22:
+  UID: 60f8b6e0
+  Amazon Name: Roland Foods Sriracha Chili Sauce
+  Original USDA Name: SRIRACHA CHILI SAUCE, SRIRACHA CHILI
+  Final USDA Name: Hot sauce
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #23:
+  UID: 63ecd01f
+  Amazon Name: Mandarin Clementines 3 Lb Bag
+  Original USDA Name: MANDARIN ORANGES, MANDARIN
+  Final USDA Name: Tangerines, (mandarin oranges), raw
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
+Change #24:
+  UID: 59d1055f
+  Amazon Name: 365 by Whole Foods Market Organic Granola
+  Original USDA Name: 365 EVERYDAY VALUE, ORGANIC MAYONNAISE
+  Final USDA Name: Granola, homemade
+  Original Match Confidence: 0.5
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4000
+
+Change #25:
+  UID: 6559e567
+  Amazon Name: Fresh Produce Bundle
+  Original USDA Name: Basil, fresh
+  Final USDA Name: Vegetables, mixed, fresh
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #26:
+  UID: e6280b24
+  Amazon Name: 365 by Whole Foods Market Pitted Dates
+  Original USDA Name: 365 EVERYDAY VALUE, PITTED BLACK OLIVES
+  Final USDA Name: Dates, medjool
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4182
+
+Change #27:
+  UID: 8a123bfc
+  Amazon Name: Amazon Brand - Happy Belly Dark Sweet Cherries
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Cherries, sweet, raw
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
+Change #28:
+  UID: 28039bb7
+  Amazon Name: Amazon Fresh Classic Crust 4 Cheese
+  Original USDA Name: CHEESE
+  Final USDA Name: Pizza, cheese topping, regular crust, frozen, cooked
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
+Change #29:
+  UID: f566aa9e
+  Amazon Name: Amazon Brand - Happy Belly Whole Blackberries
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Blackberries, raw
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #30:
+  UID: a80d9e5f
+  Amazon Name: Ball Park Hot Dog Buns
+  Original USDA Name: Ball Park Beef Hot Dogs, 4:1 
+  Final USDA Name: Rolls, hot dog, plain
+  Original Match Confidence: 0.675
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.2250
+
+Change #31:
+  UID: 55264932
+  Amazon Name: Fresh Blueberries 1 Pint
+  Original USDA Name: BOWL & BASKET CHOCOLATE MILK, 1 PINT
+  Final USDA Name: Blueberries, raw
+  Original Match Confidence: 0.2222222222222222
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6778
+
+Change #32:
+  UID: 71737a9a
+  Amazon Name: 365 by Whole Foods Market Organic Cauliflower
+  Original USDA Name: 365 EVERYDAY VALUE, ORGANIC MAYONNAISE
+  Final USDA Name: Cauliflower, raw
+  Original Match Confidence: 0.5
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4000
+
+Change #33:
+  UID: 7e21fe56
+  Amazon Name: 365 by Whole Foods Market Sun Dried Tomatoes
+  Original USDA Name: 365 EVERYDAY VALUE, TOMATO BISQUE
+  Final USDA Name: Tomatoes, sun-dried
+  Original Match Confidence: 0.3833333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5167
+
+Change #34:
+  UID: a02a5418
+  Amazon Name: Pasta 16 Oz
+  Original USDA Name: Pasta with sauce, NFS
+  Final USDA Name: Pasta, dry, enriched
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
+Change #35:
+  UID: 3df471c0
+  Amazon Name: Amazon Brand - Happy Belly Sliced Peaches
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Peaches, raw
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #36:
+  UID: ef45ff98
+  Amazon Name: Amazon Fresh Brand Organic Gala Apples
+  Original USDA Name: GALA ORGANIC APPLES, GALA
+  Final USDA Name: Apples, raw, with skin
+  Original Match Confidence: 0.2857142857142857
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6143
+
+Change #37:
+  UID: 177677b9
+  Amazon Name: 365 by Whole Foods Market Mushrooms
+  Original USDA Name: 365 EVERYDAY VALUE, SALSA
+  Final USDA Name: Mushrooms, white, raw
+  Original Match Confidence: 0.4111111111111111
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4889
+
+Change #38:
+  UID: acfb15ba
+  Amazon Name: Amazon Brand - Happy Belly Whole Blueberries
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Blueberries, raw
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #39:
+  UID: 3d9a7fc9
+  Amazon Name: 365 by Whole Foods Market Organic Green Beans
+  Original USDA Name: 365 EVERYDAY VALUE, ORGANIC, BLACK BEANS
+  Final USDA Name: Beans, snap, green, raw
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
+Change #40:
+  UID: c1ee01b4
+  Amazon Name: Amazon Brand - Happy Belly Sliced Strawberries
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Strawberries, raw
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #41:
+  UID: 5a5ac3b8
+  Amazon Name: 365 by Whole Foods Market Green Peas
+  Original USDA Name: WHOLE FOODS MARKET, ORGANIC GREEN SPLIT PEAS
+  Final USDA Name: Peas, green, raw
+  Original Match Confidence: 0.4
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5000
+
+Change #42:
+  UID: 810973a7
+  Amazon Name: 365 by Whole Foods Market Green Olives
+  Original USDA Name: 365 EVERYDAY VALUE, PITTED BLACK OLIVES
+  Final USDA Name: Olives, green
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #43:
+  UID: a66384fc
+  Amazon Name: Amazon Brand - Happy Belly Tropical Fruit Mix
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heavy syrup, solids and liquids
+  Original Match Confidence: 0.2222222222222222
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6778
+
+Change #44:
+  UID: 943f77de
+  Amazon Name: 365 by Whole Foods Market Chopped Spinach
+  Original USDA Name: Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)
+  Final USDA Name: Spinach, frozen, chopped or leaf, unprepared
+  Original Match Confidence: 0.4111111111111111
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4889
+
+Change #45:
+  UID: be869877
+  Amazon Name: 365 by Whole Foods Market Chopped Kale
+  Original USDA Name: WHOLE FOODS MARKET, CHOPPED KALE SALAD
+  Final USDA Name: Kale, raw
+  Original Match Confidence: 0.4444444444444444
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4556
+
+Change #46:
+  UID: 0b93c2d8
+  Amazon Name: Gatorlyte Rapid Rehydration Orange
+  Original USDA Name: RAPID REHYDRATION  ELECTROLYTE BEVERAGE
+  Final USDA Name: Sports drink
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #47:
+  UID: a405d396
+  Amazon Name: Amazon Fresh Multigrain Sandwich Bread
+  Original USDA Name: MULTIGRAIN SANDWICH BREAD, MULTIGRAIN
+  Final USDA Name: Bread, multi-grain
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #48:
+  UID: a2796722
+  Amazon Name: Lindt EXCELLENCE 70% Dark Chocolate
+  Original USDA Name: EXCELLENCE 70% COCOA PREMIUM DARK CHOCOLATE, EXCELLENCE
+  Final USDA Name: Chocolate, dark, 70-85% cacao solids
+  Original Match Confidence: 0.375
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5250
+
+Change #49:
+  UID: d63fc1fe
+  Amazon Name: Lindt EXCELLENCE 90% Dark Chocolate
+  Original USDA Name: LINDT, DARK CHOCOLATE
+  Final USDA Name: Chocolate, dark, 85-99% cacao solids
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #50:
+  UID: 1399aaad
+  Amazon Name: Goya Pinto Beans Dry
+  Original USDA Name: Pinto beans with meat
+  Final USDA Name: Beans, pinto, mature seeds, raw
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #51:
+  UID: 3c8444ac
+  Amazon Name: 365 by Whole Foods Market Baby Spinach
+  Original USDA Name: Spinach, baby
+  Final USDA Name: Spinach, raw
+  Original Match Confidence: 0.425
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4750
+
+Change #52:
+  UID: 13db8aa5
+  Amazon Name: Lindt Excellence Sea Salt Bar
+  Original USDA Name: NUTRITION BAR
+  Final USDA Name: Candies, dark chocolate
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
+Change #53:
+  UID: 6fb7726a
+  Amazon Name: Amazon Brand - Happy Belly Swiss Cheese Block
+  Original USDA Name: CHEESE
+  Final USDA Name: Cheese, swiss
+  Original Match Confidence: 0.425
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.5250
+
+Change #54:
+  UID: b7f54156
+  Amazon Name: Fresh Celery
+  Original USDA Name: Celery juice
+  Final USDA Name: Celery, raw
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #55:
+  UID: 79dfe247
+  Amazon Name: Amazon Fresh Brand Original Unsweetened Almond Milk
+  Original USDA Name: Almond butter
+  Final USDA Name: Almond milk, unsweetened, shelf stable
+  Original Match Confidence: 0.425
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4750
+
+Change #56:
+  UID: bf2a6026
+  Amazon Name: Amazon Brand - Happy Belly Chopped Spinach
+  Original USDA Name: Spinach, frozen, chopped or leaf, cooked, boiled, drained, with salt
+  Final USDA Name: Spinach, frozen, chopped or leaf, unprepared
+  Original Match Confidence: 0.3625
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5375
+
+Change #57:
+  UID: 78e26c2a
+  Amazon Name: Amazon Brand - Happy Belly Frozen Edamame
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Edamame, frozen, prepared
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4682
+
+Change #58:
+  UID: 94391e25
+  Amazon Name: Amazon Brand - Happy Belly Frozen Chopped Vegetables
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Vegetables, mixed, frozen, unprepared
+  Original Match Confidence: 0.2222222222222222
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6778
+
+Change #59:
+  UID: 7622803a
+  Amazon Name: 365 by Whole Foods Market Organic Angel Hair Pasta
+  Original USDA Name: ORGANIC ANGEL HAIR PASTA
+  Final USDA Name: Pasta, dry, unenriched
+  Original Match Confidence: 0.4444444444444444
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4556
+
+Change #60:
+  UID: fb00c334
+  Amazon Name: Amazon Brand - Happy Belly Frozen Cauliflower
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Cauliflower, frozen, unprepared
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4182
+
+Change #61:
+  UID: 8a459777
+  Amazon Name: Amazon Brand - Happy Belly Frozen Broccoli
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Broccoli, frozen, unprepared
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #62:
+  UID: 207e4032
+  Amazon Name: Amazon Brand - Happy Belly Frozen California Blend
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Vegetables, mixed, frozen, unprepared
+  Original Match Confidence: 0.2222222222222222
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6778
+
+Change #63:
+  UID: ee8e2275
+  Amazon Name: Amazon Fresh Beef Broth
+  Original USDA Name: Soup, beef broth or bouillon, powder, dry
+  Final USDA Name: Beef broth, ready-to-serve
+  Original Match Confidence: 0.2222222222222222
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6778
+
+Change #64:
+  UID: e86e739d
+  Amazon Name: Amazon Brand - Happy Belly Mixed Vegetables
+  Original USDA Name: HAPPY BELLY MIX, HAPPY BELLY
+  Final USDA Name: Mixed vegetables, frozen, unprepared
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #65:
+  UID: 48f76628
+  Amazon Name: 365 by Whole Foods Market Organic Carrots
+  Original USDA Name: 365 EVERYDAY VALUE, ORGANIC MAYONNAISE
+  Final USDA Name: Carrots, raw
+  Original Match Confidence: 0.5
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4000
+
+Change #66:
+  UID: 0532348c
+  Amazon Name: Amazon Brand - Happy Belly Green Peas
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Peas, green, frozen, unprepared
+  Original Match Confidence: 0.4818181818181818
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4182
+
+Change #67:
+  UID: 5d4871ae
+  Amazon Name: Amazon Brand - Happy Belly Frozen Green Beans
+  Original USDA Name: ORGANIC HAPPY BELLY WITH PROBIOTICS JUICE, HAPPY BELLY
+  Final USDA Name: Beans, snap, green, frozen, unprepared
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.4333
+
+Change #68:
+  UID: f2b88bf2
+  Amazon Name: Amazon Fresh Great Northern Beans
+  Original USDA Name: GREAT NORTHERN BEANS, GREAT NORTHERN
+  Final USDA Name: Beans, great northern, mature seeds, canned
+  Original Match Confidence: 0.3333333333333333
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.5667
+
+Change #69:
+  UID: 8606cec8
+  Amazon Name: Cucumber
+  Original USDA Name: Cucumber and vegetable namasu
+  Final USDA Name: Cucumber, with peel, raw
+  Original Match Confidence: 0.25
+  Final Match Confidence: 0.9
+  Confidence Improvement: 0.6500
+
+Change #70:
+  UID: 211fd724
+  Amazon Name: Banana Bunch
+  Original USDA Name: BANANA BUNCHES WITH ALMONDS CEREAL, BANANA BUNCHES WITH ALMONDS
+  Final USDA Name: Bananas, raw
+  Original Match Confidence: 0.4666666666666667
+  Final Match Confidence: 0.95
+  Confidence Improvement: 0.4833
+
