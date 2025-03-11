@@ -45,7 +45,14 @@ class DietOptimizer:
                     timeLimit=order_constraints.get('solver_time_limit', 900),
                     threads=self.num_cores,
                     gapRel=order_constraints.get('solver_mip_gap', 0.05),
-                    options=['highs']  # Use HiGHS as the underlying solver
+                    options=[
+                        'highs',  # Use HiGHS as the underlying solver
+                        f'cuts {order_constraints.get("solver_cuts", "on")}',
+                        f'presolve {order_constraints.get("solver_presolve", "on")}',
+                        f'heur {order_constraints.get("solver_heuristics", "on")}',
+                        'strong 10',  # Strong branching on 10 variables
+                        'backtrack 0.5'  # More aggressive backtracking
+                    ]
                 )
                 print("Using CBC with HiGHS backend optimized for Apple Silicon")
             except Exception as e:
@@ -311,6 +318,8 @@ class DietOptimizer:
             
         print(f"\nSolving optimization model using {self.num_cores} cores...")
         print(f"Solver: {self.solver.__class__.__name__}")
+        sys.stdout.write("Solving optimization problem... ")  # Space after dots, no newline
+        sys.stdout.flush()
         
         # Start time for progress tracking
         start_time = time.time()
@@ -318,10 +327,9 @@ class DietOptimizer:
         
         # Show a simple progress indicator if progress display is enabled
         if self.show_progress:
-            print("Solving optimization problem...")
-            
-            # Variable to control the progress indicator thread
             solving_in_progress = [True]  # Using a list for mutable reference
+            last_update = [0]  # Track last update time
+            last_msg_len = [0]  # Track length of last message for proper clearing
             
             def progress_indicator():
                 progress_chars = 40  # Width of the progress bar
@@ -331,17 +339,33 @@ class DietOptimizer:
                         if elapsed >= time_limit:
                             break
                             
+                        # Only update every 0.5 seconds
+                        if elapsed - last_update[0] < 0.5:
+                            time.sleep(0.1)
+                            continue
+                            
                         # Calculate progress based on elapsed time vs time limit
                         progress = min(elapsed / time_limit, 1.0)
                         filled = int(progress_chars * progress)
                         
-                        # Update progress bar
-                        sys.stdout.write("\r[" + "=" * filled + " " * (progress_chars - filled) + 
-                                        f"] {elapsed:.1f}s / {time_limit:.1f}s")
+                        # Create the progress bar with exact width
+                        bar = "=" * filled + " " * (progress_chars - filled)
+                        msg = f"[{bar}] {elapsed:.1f}s / {time_limit:.1f}s"
+                        
+                        # Clear previous line content
+                        if last_msg_len[0] > 0:
+                            sys.stdout.write('\r' + ' ' * last_msg_len[0])
+                        
+                        # Write new progress bar
+                        sys.stdout.write(f"\r{msg}")
                         sys.stdout.flush()
-                        time.sleep(0.5)
+                        
+                        last_msg_len[0] = len(msg)
+                        last_update[0] = elapsed
+                        time.sleep(0.1)
                 except Exception as e:
-                    print(f"\nProgress indicator error: {e}")
+                    sys.stdout.write(f"\nProgress indicator error: {e}\n")
+                    sys.stdout.flush()
             
             # Start progress indicator in a separate thread
             with ThreadPoolExecutor(max_workers=1) as executor:
@@ -353,7 +377,7 @@ class DietOptimizer:
                 finally:
                     # Signal the progress thread to stop
                     solving_in_progress[0] = False
-                
+                    
                 # Wait for progress thread to finish
                 try:
                     progress_future.result(timeout=1.0)
@@ -362,7 +386,7 @@ class DietOptimizer:
                 
             # Complete the progress bar
             elapsed = time.time() - start_time
-            sys.stdout.write("\r[" + "=" * 40 + f"] Completed in {elapsed:.1f}s          \n")
+            sys.stdout.write(f"\r[{'=' * 40}] Completed in {elapsed:.1f}s\n")
             sys.stdout.flush()
         else:
             # Just solve without progress indicator
@@ -438,10 +462,10 @@ class DietOptimizer:
         total_cost = 0
         for w in self.weeks:
             week_cost = {
-                'items': sum(
+                'items': pulp.value(sum(
                     self.order_vars[w, i].value() * self.food_items[i]['cost']
                     for i in self.items
-                ),
+                )),
                 'delivery': (
                     self.order_constraints['delivery_fee']
                     if self.order_week[w].value() > 0.5

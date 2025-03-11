@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 # ============= CONFIGURATION =============
 
 # Timeline
-WEEKS = 36  # Total weeks to optimize for
+WEEKS = 36 # Total weeks to optimize for
 START_DATE = "2024-09-29"  # Start date (YYYY-MM-DD)
 
 # Nutritional Requirements (weekly)
@@ -54,7 +54,7 @@ MIN_ORDER_VALUE = 75  # Minimum order value in dollars
 DELIVERY_FEE = 10     # Delivery fee in dollars
 
 # Default Weekly Serving Limits
-DEFAULT_WEEKLY_LIMIT = 14  # Default maximum servings per week for any item
+DEFAULT_WEEKLY_LIMIT = 12  # Default maximum servings per week for any item
 
 # Data Source
 FOOD_CATALOG_PATH = 'food_catalog.csv'
@@ -65,9 +65,14 @@ SAVE_PLOTS = True
 SAVE_CSV = True
 
 # Solver Configuration
-SOLVER_TIME_LIMIT = 900  # 15 minutes time limit
-SOLVER_MIP_GAP = 0.20   # 10% optimality gap for faster convergence (increased from 5%)
-SOLVER_SHOW_PROGRESS = True  # Show solver progress
+SOLVER_TIME_LIMIT = 7200  # 10 minutes time limit (reduced from 15)
+SOLVER_MIP_GAP = 0.20   # 10% optimality gap (reduced from 20%)
+SOLVER_SHOW_PROGRESS = True
+
+# Additional Solver Parameters
+SOLVER_CUTS = 'on'      # Enable cutting planes
+SOLVER_PRESOLVE = 'on'  # Enable presolve
+SOLVER_HEURISTICS = 'on' # Enable heuristics
 
 # ============= END CONFIGURATION =============
 
@@ -93,7 +98,10 @@ def update_constraints(food_manager):
         # Add solver configuration
         'solver_time_limit': SOLVER_TIME_LIMIT,
         'solver_mip_gap': SOLVER_MIP_GAP,
-        'solver_show_progress': SOLVER_SHOW_PROGRESS
+        'solver_show_progress': SOLVER_SHOW_PROGRESS,
+        'solver_cuts': SOLVER_CUTS,
+        'solver_presolve': SOLVER_PRESOLVE,
+        'solver_heuristics': SOLVER_HEURISTICS
     }
     food_manager.update_order_constraints(order_constraints)
     

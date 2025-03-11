@@ -1,0 +1,734 @@
+,Week,Orders,Consumption Plan,Remaining Inventory,Wastage,Total Cost
+0,2024-09-29,No orders needed,"frozen_edamame: 9 servings
+great_northern_beans: 3 servings
+jasmine_rice: 13 servings
+mixed_nuts: 8 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings",None,None,$0.00
+1,2024-10-06,"eggs_large: 12 servings (1 package)
+frozen_edamame: 15 servings (3 packages)
+great_northern_beans: 60 servings (15 packages)
+jasmine_rice: 160 servings (8 packages)
+mixed_nuts: 36 servings (4 packages)
+pasta: 8 servings (1 package)
+peanut_butter: 364 servings (26 packages)
+pinto_beans: 28 servings (7 packages)
+white_rice: 36 servings (2 packages)","eggs_large: 12 servings
+frozen_edamame: 4 servings
+great_northern_beans: 5 servings
+jasmine_rice: 14 servings
+mixed_nuts: 8 servings
+pasta: 2 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 11 servings","eggs_large: 12 servings
+frozen_edamame: 6 servings
+great_northern_beans: 57 servings
+jasmine_rice: 147 servings
+mixed_nuts: 28 servings
+pasta: 8 servings
+peanut_butter: 350 servings
+pinto_beans: 14 servings
+white_rice: 22 servings",None,$209.52
+2,2024-10-13,No orders needed,"frozen_edamame: 3 servings
+frozen_green_beans: 2 servings
+great_northern_beans: 2 servings
+jasmine_rice: 14 servings
+mixed_nuts: 7 servings
+pasta: 5 servings
+peanut_butter: 13 servings
+pinto_beans: 14 servings
+raisins: 6 servings
+white_rice: 14 servings","frozen_edamame: 2 servings
+great_northern_beans: 52 servings
+jasmine_rice: 133 servings
+mixed_nuts: 20 servings
+pasta: 6 servings
+peanut_butter: 336 servings
+white_rice: 11 servings",eggs_large: 12 servings,$0.00
+3,2024-10-20,"bananas: 3 servings (1 package)
+feta_cheese: 8 servings (1 package)
+frozen_chopped_spinach: 5 servings (1 package)
+frozen_edamame: 10 servings (2 packages)
+frozen_green_beans: 5 servings (1 package)
+jasmine_rice: 40 servings (2 packages)
+pasta: 8 servings (1 package)
+pinto_beans: 48 servings (12 packages)
+raisins: 7 servings (1 package)
+white_rice: 72 servings (4 packages)","bananas: 3 servings
+black_beans: 4 servings
+feta_cheese: 8 servings
+frozen_chopped_spinach: 5 servings
+frozen_edamame: 1 servings
+frozen_green_beans: 1 servings
+great_northern_beans: 2 servings
+jasmine_rice: 14 servings
+mixed_nuts: 2 servings
+pasta: 3 servings
+peanut_butter: 12 servings
+pinto_beans: 7 servings
+raisins: 9 servings
+white_rice: 12 servings","bananas: 3 servings
+feta_cheese: 8 servings
+frozen_chopped_spinach: 5 servings
+frozen_edamame: 9 servings
+frozen_green_beans: 3 servings
+great_northern_beans: 50 servings
+jasmine_rice: 159 servings
+mixed_nuts: 13 servings
+pasta: 9 servings
+peanut_butter: 323 servings
+pinto_beans: 34 servings
+raisins: 1 servings
+white_rice: 69 servings",None,$89.21
+4,2024-10-27,"bananas: 9 servings (3 packages)
+black_beans: 6 servings (1 package)
+feta_cheese: 8 servings (1 package)
+frozen_cauliflower: 5 servings (1 package)
+frozen_pizza: 6 servings (1 package)
+mixed_nuts: 45 servings (5 packages)
+olive_oil: 32 servings (1 package)
+pinto_beans: 36 servings (9 packages)
+raisins: 21 servings (3 packages)
+white_rice: 36 servings (2 packages)","bananas: 9 servings
+feta_cheese: 8 servings
+frozen_edamame: 9 servings
+frozen_pizza: 2 servings
+jasmine_rice: 14 servings
+mixed_nuts: 8 servings
+peanut_butter: 14 servings
+pinto_beans: 7 servings
+raisins: 2 servings
+white_rice: 8 servings","bananas: 9 servings
+black_beans: 2 servings
+feta_cheese: 8 servings
+frozen_cauliflower: 5 servings
+frozen_edamame: 8 servings
+frozen_pizza: 6 servings
+jasmine_rice: 145 servings
+mixed_nuts: 56 servings
+olive_oil: 32 servings
+peanut_butter: 311 servings
+pinto_beans: 63 servings
+raisins: 13 servings
+white_rice: 93 servings",None,$95.98
+5,2024-11-03,"bananas: 3 servings (1 package)
+feta_cheese: 8 servings (1 package)
+frozen_breakfast_sandwich: 8 servings (1 package)
+frozen_edamame: 15 servings (3 packages)
+white_rice: 180 servings (10 packages)","bananas: 3 servings
+feta_cheese: 8 servings
+frozen_green_beans: 2 servings
+great_northern_beans: 12 servings
+jasmine_rice: 14 servings
+mixed_nuts: 2 servings
+pasta: 1 servings
+peanut_butter: 14 servings
+pinto_beans: 7 servings
+raisins: 1 servings
+white_rice: 14 servings","bananas: 3 servings
+feta_cheese: 8 servings
+frozen_breakfast_sandwich: 8 servings
+frozen_edamame: 14 servings
+frozen_green_beans: 2 servings
+great_northern_beans: 48 servings
+jasmine_rice: 131 servings
+mixed_nuts: 48 servings
+pasta: 6 servings
+peanut_butter: 297 servings
+pinto_beans: 56 servings
+raisins: 11 servings
+white_rice: 265 servings",bananas: 6 servings,$95.48
+6,2024-11-10,No orders needed,"black_beans: 1 servings
+frozen_cauliflower: 3 servings
+frozen_edamame: 3 servings
+frozen_pizza: 2 servings
+great_northern_beans: 14 servings
+jasmine_rice: 14 servings
+mixed_nuts: 12 servings
+peanut_butter: 14 servings
+pinto_beans: 8 servings
+raisins: 4 servings
+white_rice: 14 servings","black_beans: 2 servings
+frozen_cauliflower: 5 servings
+frozen_edamame: 14 servings
+frozen_pizza: 4 servings
+great_northern_beans: 36 servings
+jasmine_rice: 117 servings
+mixed_nuts: 46 servings
+peanut_butter: 283 servings
+pinto_beans: 49 servings
+raisins: 10 servings
+white_rice: 251 servings","bananas: 3 servings
+feta_cheese: 8 servings",$0.00
+7,2024-11-17,No orders needed,"black_beans: 1 servings
+frozen_edamame: 3 servings
+great_northern_beans: 4 servings
+jasmine_rice: 14 servings
+mixed_nuts: 11 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings","black_beans: 1 servings
+frozen_edamame: 11 servings
+great_northern_beans: 22 servings
+jasmine_rice: 103 servings
+mixed_nuts: 34 servings
+peanut_butter: 269 servings
+pinto_beans: 41 servings
+white_rice: 237 servings",None,$0.00
+8,2024-11-24,No orders needed,"frozen_edamame: 7 servings
+great_northern_beans: 4 servings
+jasmine_rice: 14 servings
+mixed_nuts: 6 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+raisins: 2 servings
+white_rice: 14 servings","frozen_edamame: 8 servings
+great_northern_beans: 18 servings
+jasmine_rice: 89 servings
+mixed_nuts: 23 servings
+peanut_butter: 255 servings
+pinto_beans: 27 servings
+raisins: 6 servings
+white_rice: 223 servings",None,$0.00
+9,2024-12-01,No orders needed,"frozen_breakfast_sandwich: 7 servings
+frozen_cauliflower: 1 servings
+frozen_edamame: 1 servings
+frozen_pizza: 1 servings
+great_northern_beans: 14 servings
+jasmine_rice: 14 servings
+mixed_nuts: 7 servings
+olive_oil: 4 servings
+pasta: 5 servings
+peanut_butter: 1 servings
+pinto_beans: 12 servings
+white_rice: 13 servings","frozen_breakfast_sandwich: 8 servings
+frozen_cauliflower: 2 servings
+frozen_edamame: 1 servings
+frozen_pizza: 2 servings
+great_northern_beans: 14 servings
+jasmine_rice: 75 servings
+mixed_nuts: 17 servings
+olive_oil: 32 servings
+pasta: 5 servings
+peanut_butter: 241 servings
+pinto_beans: 13 servings
+white_rice: 209 servings",None,$0.00
+10,2024-12-08,No orders needed,"frozen_edamame: 8 servings
+jasmine_rice: 14 servings
+mixed_nuts: 10 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings","jasmine_rice: 61 servings
+mixed_nuts: 10 servings
+peanut_butter: 240 servings
+pinto_beans: 1 servings
+white_rice: 196 servings",None,$0.00
+11,2024-12-15,"frozen_edamame: 15 servings (3 packages)
+pinto_beans: 16 servings (4 packages)
+protein_bars: 24 servings (2 packages)
+raisins: 7 servings (1 package)","frozen_breakfast_sandwich: 1 servings
+frozen_cauliflower: 2 servings
+frozen_chopped_spinach: 3 servings
+frozen_edamame: 9 servings
+great_northern_beans: 10 servings
+jasmine_rice: 13 servings
+mixed_nuts: 10 servings
+peanut_butter: 13 servings
+pinto_beans: 10 servings
+white_rice: 14 servings","frozen_breakfast_sandwich: 1 servings
+frozen_cauliflower: 1 servings
+frozen_edamame: 7 servings
+jasmine_rice: 47 servings
+peanut_butter: 226 servings
+pinto_beans: 3 servings
+protein_bars: 24 servings
+raisins: 11 servings
+white_rice: 182 servings",None,$85.89
+12,2024-12-22,"chicken_breast: 3 servings (1 package)
+chips: 5 servings (1 package)
+frozen_broccoli: 15 servings (1 package)
+frozen_cauliflower: 10 servings (2 packages)
+frozen_chopped_spinach: 5 servings (1 package)
+frozen_edamame: 25 servings (5 packages)
+frozen_pizza: 6 servings (1 package)
+great_northern_beans: 12 servings (3 packages)
+jasmine_rice: 40 servings (2 packages)
+mixed_nuts: 90 servings (10 packages)
+pinto_beans: 8 servings (2 packages)
+white_rice: 18 servings (1 package)","chicken_breast: 3 servings
+chips: 1 servings
+frozen_edamame: 1 servings
+granola_bar: 2 servings
+great_northern_beans: 14 servings
+jasmine_rice: 11 servings
+mixed_nuts: 7 servings
+peanut_butter: 13 servings
+pinto_beans: 11 servings
+raisins: 4 servings
+white_rice: 14 servings","chicken_breast: 3 servings
+chips: 5 servings
+frozen_broccoli: 15 servings
+frozen_cauliflower: 9 servings
+frozen_chopped_spinach: 2 servings
+frozen_edamame: 23 servings
+frozen_pizza: 7 servings
+great_northern_beans: 2 servings
+jasmine_rice: 74 servings
+mixed_nuts: 80 servings
+peanut_butter: 213 servings
+pinto_beans: 1 servings
+raisins: 11 servings
+white_rice: 186 servings",None,$86.01
+13,2024-12-29,"canned_tuna: 1 servings (1 package)
+frozen_chopped_spinach: 5 servings (1 package)
+frozen_edamame: 15 servings (3 packages)
+granola_bar: 16 servings (2 packages)
+great_northern_beans: 32 servings (8 packages)
+jasmine_rice: 60 servings (3 packages)
+pasta: 8 servings (1 package)
+peanut_butter: 28 servings (2 packages)
+pinto_beans: 56 servings (14 packages)","chips: 4 servings
+frozen_chopped_spinach: 5 servings
+frozen_edamame: 3 servings
+granola_bar: 14 servings
+jasmine_rice: 7 servings
+mixed_nuts: 13 servings
+pasta: 3 servings
+peanut_butter: 14 servings
+pinto_beans: 12 servings
+protein_bars: 4 servings
+raisins: 1 servings
+white_rice: 14 servings","canned_tuna: 1 servings
+chips: 4 servings
+frozen_chopped_spinach: 7 servings
+frozen_edamame: 37 servings
+granola_bar: 14 servings
+great_northern_beans: 20 servings
+jasmine_rice: 123 servings
+mixed_nuts: 73 servings
+pasta: 8 servings
+peanut_butter: 228 servings
+pinto_beans: 46 servings
+protein_bars: 24 servings
+raisins: 7 servings
+white_rice: 172 servings",chicken_breast: 3 servings,$87.47
+14,2025-01-05,No orders needed,"frozen_broccoli: 6 servings
+frozen_edamame: 6 servings
+great_northern_beans: 12 servings
+jasmine_rice: 12 servings
+mixed_nuts: 14 servings
+peanut_butter: 14 servings
+pinto_beans: 9 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_broccoli: 15 servings
+frozen_edamame: 34 servings
+great_northern_beans: 20 servings
+jasmine_rice: 116 servings
+mixed_nuts: 60 servings
+peanut_butter: 214 servings
+pinto_beans: 34 servings
+raisins: 6 servings
+white_rice: 158 servings",None,$0.00
+15,2025-01-12,No orders needed,"canned_tuna: 1 servings
+frozen_broccoli: 6 servings
+frozen_cauliflower: 1 servings
+frozen_edamame: 4 servings
+frozen_pizza: 1 servings
+great_northern_beans: 4 servings
+jasmine_rice: 9 servings
+mixed_nuts: 14 servings
+peanut_butter: 14 servings
+pinto_beans: 11 servings
+protein_bars: 4 servings
+raisins: 2 servings
+white_rice: 14 servings","canned_tuna: 1 servings
+frozen_broccoli: 9 servings
+frozen_cauliflower: 9 servings
+frozen_edamame: 28 servings
+frozen_pizza: 7 servings
+great_northern_beans: 8 servings
+jasmine_rice: 104 servings
+mixed_nuts: 46 servings
+peanut_butter: 200 servings
+pinto_beans: 25 servings
+protein_bars: 20 servings
+raisins: 5 servings
+white_rice: 144 servings",None,$0.00
+16,2025-01-19,No orders needed,"frozen_edamame: 5 servings
+frozen_pizza: 1 servings
+great_northern_beans: 4 servings
+jasmine_rice: 14 servings
+mixed_nuts: 5 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_edamame: 24 servings
+frozen_pizza: 6 servings
+great_northern_beans: 4 servings
+jasmine_rice: 95 servings
+mixed_nuts: 32 servings
+peanut_butter: 186 servings
+pinto_beans: 14 servings
+raisins: 3 servings
+white_rice: 130 servings",None,$0.00
+17,2025-01-26,No orders needed,"frozen_edamame: 8 servings
+great_northern_beans: 12 servings
+jasmine_rice: 13 servings
+mixed_nuts: 11 servings
+peanut_butter: 14 servings
+pinto_beans: 9 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_edamame: 19 servings
+jasmine_rice: 81 servings
+mixed_nuts: 27 servings
+peanut_butter: 172 servings
+raisins: 2 servings
+white_rice: 116 servings",None,$0.00
+18,2025-02-02,"bananas: 3 servings (1 package)
+feta_cheese: 8 servings (1 package)
+frozen_raspberries: 3 servings (1 package)
+great_northern_beans: 76 servings (19 packages)
+jasmine_rice: 80 servings (4 packages)
+mixed_nuts: 27 servings (3 packages)
+pinto_beans: 44 servings (11 packages)","bananas: 3 servings
+feta_cheese: 8 servings
+frozen_broccoli: 3 servings
+frozen_chopped_spinach: 1 servings
+frozen_edamame: 3 servings
+great_northern_beans: 14 servings
+jasmine_rice: 11 servings
+mixed_nuts: 7 servings
+peanut_butter: 13 servings
+pinto_beans: 7 servings
+white_rice: 14 servings","bananas: 3 servings
+feta_cheese: 8 servings
+frozen_broccoli: 3 servings
+frozen_chopped_spinach: 2 servings
+frozen_edamame: 11 servings
+frozen_raspberries: 3 servings
+great_northern_beans: 64 servings
+jasmine_rice: 148 servings
+mixed_nuts: 43 servings
+peanut_butter: 158 servings
+pinto_beans: 35 servings
+white_rice: 102 servings",None,$86.13
+19,2025-02-09,No orders needed,"frozen_edamame: 6 servings
+frozen_pizza: 1 servings
+great_northern_beans: 12 servings
+jasmine_rice: 14 servings
+mixed_nuts: 5 servings
+peanut_butter: 14 servings
+pinto_beans: 11 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_edamame: 8 servings
+frozen_pizza: 5 servings
+great_northern_beans: 50 servings
+jasmine_rice: 137 servings
+mixed_nuts: 36 servings
+peanut_butter: 145 servings
+pinto_beans: 28 servings
+raisins: 1 servings
+white_rice: 88 servings","bananas: 3 servings
+feta_cheese: 8 servings",$0.00
+20,2025-02-16,No orders needed,"frozen_edamame: 3 servings
+great_northern_beans: 7 servings
+jasmine_rice: 14 servings
+mixed_nuts: 8 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings","frozen_edamame: 2 servings
+great_northern_beans: 38 servings
+jasmine_rice: 123 servings
+mixed_nuts: 31 servings
+peanut_butter: 131 servings
+pinto_beans: 17 servings
+white_rice: 74 servings",None,$0.00
+21,2025-02-23,"eggs_large: 12 servings (1 package)
+frozen_broccoli: 15 servings (1 package)
+frozen_edamame: 15 servings (3 packages)
+great_northern_beans: 40 servings (10 packages)
+jasmine_rice: 20 servings (1 package)
+pinto_beans: 80 servings (20 packages)
+raisins: 7 servings (1 package)","eggs_large: 12 servings
+frozen_edamame: 2 servings
+frozen_pizza: 2 servings
+great_northern_beans: 14 servings
+jasmine_rice: 13 servings
+mixed_nuts: 4 servings
+peanut_butter: 11 servings
+pinto_beans: 12 servings
+raisins: 2 servings
+white_rice: 13 servings","eggs_large: 12 servings
+frozen_broccoli: 15 servings
+frozen_edamame: 14 servings
+frozen_pizza: 4 servings
+great_northern_beans: 71 servings
+jasmine_rice: 129 servings
+mixed_nuts: 23 servings
+peanut_butter: 117 servings
+pinto_beans: 83 servings
+raisins: 7 servings
+white_rice: 60 servings",None,$85.78
+22,2025-03-02,No orders needed,"frozen_edamame: 3 servings
+great_northern_beans: 13 servings
+jasmine_rice: 14 servings
+mixed_nuts: 10 servings
+peanut_butter: 14 servings
+pinto_beans: 11 servings
+white_rice: 14 servings","frozen_edamame: 12 servings
+great_northern_beans: 57 servings
+jasmine_rice: 116 servings
+mixed_nuts: 19 servings
+peanut_butter: 106 servings
+pinto_beans: 71 servings
+white_rice: 47 servings",eggs_large: 12 servings,$0.00
+23,2025-03-09,No orders needed,"frozen_chopped_spinach: 1 servings
+frozen_edamame: 5 servings
+frozen_pizza: 2 servings
+great_northern_beans: 6 servings
+jasmine_rice: 14 servings
+mixed_nuts: 7 servings
+peanut_butter: 14 servings
+pinto_beans: 12 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_chopped_spinach: 1 servings
+frozen_edamame: 9 servings
+frozen_pizza: 2 servings
+great_northern_beans: 44 servings
+jasmine_rice: 102 servings
+mixed_nuts: 9 servings
+peanut_butter: 92 servings
+pinto_beans: 60 servings
+raisins: 5 servings
+white_rice: 33 servings",None,$0.00
+24,2025-03-16,No orders needed,"frozen_broccoli: 2 servings
+frozen_pizza: 3 servings
+great_northern_beans: 11 servings
+jasmine_rice: 14 servings
+mixed_nuts: 3 servings
+peanut_butter: 14 servings
+pinto_beans: 13 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_broccoli: 15 servings
+great_northern_beans: 38 servings
+jasmine_rice: 88 servings
+mixed_nuts: 2 servings
+peanut_butter: 78 servings
+pinto_beans: 48 servings
+raisins: 4 servings
+white_rice: 19 servings",None,$0.00
+25,2025-03-23,"feta_cheese: 8 servings (1 package)
+frozen_pizza: 6 servings (1 package)
+mixed_nuts: 18 servings (2 packages)
+peanut_butter: 140 servings (10 packages)
+white_rice: 108 servings (6 packages)","feta_cheese: 8 servings
+frozen_cauliflower: 8 servings
+frozen_raspberries: 2 servings
+great_northern_beans: 10 servings
+jasmine_rice: 13 servings
+mixed_nuts: 7 servings
+pasta: 1 servings
+peanut_butter: 14 servings
+pinto_beans: 7 servings
+white_rice: 14 servings","feta_cheese: 8 servings
+frozen_cauliflower: 8 servings
+frozen_pizza: 3 servings
+frozen_raspberries: 3 servings
+great_northern_beans: 27 servings
+jasmine_rice: 74 servings
+mixed_nuts: 17 servings
+pasta: 5 servings
+peanut_butter: 204 servings
+pinto_beans: 35 servings
+white_rice: 113 servings",None,$103.80
+26,2025-03-30,No orders needed,"frozen_broccoli: 6 servings
+frozen_edamame: 1 servings
+frozen_pizza: 3 servings
+great_northern_beans: 6 servings
+jasmine_rice: 14 servings
+mixed_nuts: 2 servings
+pasta: 1 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_broccoli: 13 servings
+frozen_edamame: 4 servings
+frozen_pizza: 3 servings
+great_northern_beans: 17 servings
+jasmine_rice: 61 servings
+mixed_nuts: 10 servings
+pasta: 4 servings
+peanut_butter: 190 servings
+pinto_beans: 28 servings
+raisins: 3 servings
+white_rice: 99 servings",feta_cheese: 8 servings,$0.00
+27,2025-04-06,No orders needed,"frozen_edamame: 3 servings
+great_northern_beans: 7 servings
+jasmine_rice: 14 servings
+mixed_nuts: 8 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings","frozen_edamame: 3 servings
+great_northern_beans: 11 servings
+jasmine_rice: 47 servings
+mixed_nuts: 8 servings
+peanut_butter: 176 servings
+pinto_beans: 14 servings
+white_rice: 85 servings",None,$0.00
+28,2025-04-13,No orders needed,"frozen_broccoli: 7 servings
+frozen_edamame: 3 servings
+frozen_peas: 13 servings
+great_northern_beans: 1 servings
+jasmine_rice: 11 servings
+mixed_nuts: 14 servings
+pasta: 3 servings
+peanut_butter: 14 servings
+pinto_beans: 4 servings
+protein_bars: 12 servings
+raisins: 1 servings
+white_rice: 14 servings","frozen_broccoli: 7 servings
+great_northern_beans: 4 servings
+jasmine_rice: 33 servings
+pasta: 3 servings
+peanut_butter: 162 servings
+protein_bars: 16 servings
+raisins: 2 servings
+white_rice: 71 servings",None,$0.00
+29,2025-04-20,"canned_tuna: 1 servings (1 package)
+frozen_edamame: 25 servings (5 packages)
+frozen_peas: 15 servings (3 packages)
+great_northern_beans: 16 servings (4 packages)
+jasmine_rice: 20 servings (1 package)
+mixed_nuts: 54 servings (6 packages)
+pinto_beans: 60 servings (15 packages)","frozen_edamame: 5 servings
+great_northern_beans: 11 servings
+jasmine_rice: 14 servings
+mixed_nuts: 6 servings
+peanut_butter: 14 servings
+pinto_beans: 12 servings
+raisins: 1 servings
+white_rice: 14 servings","canned_tuna: 1 servings
+frozen_edamame: 22 servings
+frozen_peas: 2 servings
+great_northern_beans: 19 servings
+jasmine_rice: 42 servings
+mixed_nuts: 40 servings
+peanut_butter: 148 servings
+pinto_beans: 56 servings
+raisins: 1 servings
+white_rice: 57 servings",None,$85.17
+30,2025-04-27,No orders needed,"frozen_edamame: 3 servings
+great_northern_beans: 7 servings
+jasmine_rice: 14 servings
+mixed_nuts: 8 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings","frozen_edamame: 17 servings
+great_northern_beans: 8 servings
+jasmine_rice: 28 servings
+mixed_nuts: 34 servings
+peanut_butter: 134 servings
+pinto_beans: 44 servings
+white_rice: 43 servings",None,$0.00
+31,2025-05-04,No orders needed,"frozen_broccoli: 1 servings
+frozen_edamame: 3 servings
+great_northern_beans: 12 servings
+jasmine_rice: 14 servings
+mixed_nuts: 13 servings
+peanut_butter: 14 servings
+pinto_beans: 11 servings
+white_rice: 13 servings","frozen_edamame: 14 servings
+great_northern_beans: 1 servings
+jasmine_rice: 14 servings
+mixed_nuts: 26 servings
+peanut_butter: 120 servings
+pinto_beans: 30 servings
+white_rice: 29 servings",None,$0.00
+32,2025-05-11,"canned_tuna: 7 servings (7 packages)
+deli_turkey: 6 servings (1 package)
+frozen_broccoli: 15 servings (1 package)
+frozen_chopped_spinach: 5 servings (1 package)
+great_northern_beans: 28 servings (7 packages)
+jasmine_rice: 40 servings (2 packages)
+mixed_nuts: 36 servings (4 packages)
+pinto_beans: 20 servings (5 packages)
+white_rice: 54 servings (3 packages)","deli_turkey: 6 servings
+frozen_broccoli: 14 servings
+frozen_chopped_spinach: 5 servings
+frozen_edamame: 3 servings
+great_northern_beans: 1 servings
+jasmine_rice: 12 servings
+mixed_nuts: 14 servings
+peanut_butter: 14 servings
+pinto_beans: 12 servings
+white_rice: 14 servings","canned_tuna: 8 servings
+deli_turkey: 6 servings
+frozen_broccoli: 14 servings
+frozen_chopped_spinach: 5 servings
+frozen_edamame: 11 servings
+great_northern_beans: 17 servings
+jasmine_rice: 40 servings
+mixed_nuts: 49 servings
+peanut_butter: 106 servings
+pinto_beans: 39 servings
+white_rice: 70 servings",None,$85.02
+33,2025-05-18,No orders needed,"frozen_edamame: 5 servings
+great_northern_beans: 4 servings
+jasmine_rice: 14 servings
+mixed_nuts: 8 servings
+peanut_butter: 14 servings
+pinto_beans: 14 servings
+white_rice: 14 servings","frozen_edamame: 8 servings
+great_northern_beans: 16 servings
+jasmine_rice: 28 servings
+mixed_nuts: 35 servings
+peanut_butter: 92 servings
+pinto_beans: 27 servings
+white_rice: 56 servings",deli_turkey: 6 servings,$0.00
+34,2025-05-25,No orders needed,"frozen_edamame: 3 servings
+great_northern_beans: 9 servings
+jasmine_rice: 14 servings
+mixed_nuts: 9 servings
+peanut_butter: 14 servings
+pinto_beans: 13 servings
+white_rice: 14 servings","frozen_edamame: 3 servings
+great_northern_beans: 12 servings
+jasmine_rice: 14 servings
+mixed_nuts: 27 servings
+peanut_butter: 78 servings
+pinto_beans: 13 servings
+white_rice: 42 servings",None,$0.00
+35,2025-06-01,No orders needed,"frozen_breakfast_sandwich: 14 servings
+frozen_cauliflower: 10 servings
+frozen_edamame: 14 servings
+frozen_green_beans: 14 servings
+frozen_raspberries: 14 servings
+granola_bar: 14 servings
+great_northern_beans: 14 servings
+jasmine_rice: 14 servings
+mixed_nuts: 11 servings
+pasta: 14 servings","canned_tuna: 8 servings
+frozen_peas: 2 servings
+frozen_raspberries: 1 servings
+great_northern_beans: 3 servings
+mixed_nuts: 18 servings
+olive_oil: 28 servings
+peanut_butter: 64 servings
+protein_bars: 4 servings
+white_rice: 28 servings","canned_tuna: 8 servings
+frozen_peas: 2 servings
+frozen_raspberries: 1 servings
+great_northern_beans: 3 servings
+mixed_nuts: 18 servings
+olive_oil: 28 servings
+peanut_butter: 64 servings
+protein_bars: 4 servings
+white_rice: 28 servings",$0.00
+36,TOTAL WASTAGE,,,,"eggs_large: 24 servings ($10.08)
+bananas: 12 servings ($1.92)
+feta_cheese: 24 servings ($18.96)
+chicken_breast: 3 servings ($4.50)
+deli_turkey: 6 servings ($6.42)",$41.88 wasted
+37,TOTAL COST,,,,,$1195.46
