@@ -1,0 +1,14 @@
+Supply Chain Analysis Summary
+===========================
+
+Total Cost: $1406.12
+Average Weekly Cost: $39.06
+Total Weeks Analyzed: 36
+Weeks with Orders: 10
+Order Frequency: 27.8%
+
+Food Consumption and Waste Metrics
+===============================
+Total Servings Consumed: 3117
+Total Servings Wasted: 194
+Wastage Percentage: 5.86%

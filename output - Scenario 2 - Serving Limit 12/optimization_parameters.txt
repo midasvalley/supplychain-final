@@ -1,0 +1,16 @@
+=== Optimization Parameters ===
+
+Timeline: 36 weeks starting from 2024-09-29
+
+Nutritional Requirements (weekly):
+Calories: 20000 - 28000 kcal
+Protein:  700 - 1400 g
+Fat:      350 - 840 g
+Carbs:    2100 - 5250 g
+Fiber:    140 - 350 g
+Sugar:    0 - 700 g
+
+Order Constraints:
+Minimum Order Value: $75
+Delivery Fee: $10
+Default Weekly Serving Limit: 12

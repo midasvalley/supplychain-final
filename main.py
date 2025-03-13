@@ -65,8 +65,8 @@ SAVE_PLOTS = True
 SAVE_CSV = True
 
 # Solver Configuration
-SOLVER_TIME_LIMIT = 7200  # 10 minutes time limit (reduced from 15)
-SOLVER_MIP_GAP = 0.20   # 10% optimality gap (reduced from 20%)
+SOLVER_TIME_LIMIT = 32000  # 10 minutes time limit (reduced from 15)
+SOLVER_MIP_GAP = 0.30  # 10% optimality gap (reduced from 20%)
 SOLVER_SHOW_PROGRESS = True
 
 # Additional Solver Parameters
